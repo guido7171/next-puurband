@@ -16,7 +16,7 @@ export default function Landing() {
             className="absolute top-0 w-full h-full bg-center bg-cover"
             style={{
               backgroundImage:
-                "url('https://static.wixstatic.com/media/a821ba_d58ba1569d3842bbb6e929251b5890b3~mv2.jpg/v1/fill/w_1984,h_680,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a821ba_d58ba1569d3842bbb6e929251b5890b3~mv2.jpg')",
+                "url('https://static.wixstatic.com/media/a821ba_6468ab94aed0441a87ce409ebe3eb2ed~mv2.jpg/v1/fill/w_800,h_364,al_c,q_80,enc_auto/header-image.jpg')",
             }}
           >
             <span
